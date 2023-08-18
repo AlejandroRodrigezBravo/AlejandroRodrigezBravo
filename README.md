@@ -1,4 +1,4 @@
-# ¡Hola, soy Alejandro Rodríguez Bravo! 👋
+# ¡Hola, soy Alejandro Rodríguez Bravo! 
 
 ## Desarrollador Web Java con enfoque en Microservicios 🚀
 
@@ -6,24 +6,24 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web con un enfoque especial en el mundo Java y la arquitectura de microservicios. Mi objetivo es construir soluciones robustas y escalables que ofrezcan un alto rendimiento y una excelente experiencia de usuario.
 
-### Lo que hago
+### 🛠️ Lo que hago
 
 - Desarrollo de aplicaciones web utilizando Java y frameworks como Spring Boot.
 - Diseño y construcción de arquitecturas de microservicios para sistemas escalables.
 - Implementación de APIs RESTful y servicios backend para aplicaciones modernas.
 - Integración de bases de datos SQL para el almacenamiento eficiente de datos.
 
-### Proyectos Destacados
+### 🌐 Proyectos Destacados
 
-- [Proyecto 1](enlace-a-proyecto-1): Descripción breve del proyecto.
-- [Proyecto 2](enlace-a-proyecto-2): Descripción breve del proyecto.
+- [Proyecto 1](https://arodriguezbravo.netlify.app/): Descripción breve del proyecto.
+- [Proyecto 2](https://arodriguezbravo.netlify.app/): Descripción breve del proyecto.
 
 ### Contacto
 
 ¡Me encanta conectar con otros desarrolladores y colaborar en proyectos interesantes! Si tienes alguna pregunta, idea o simplemente quieres charlar sobre tecnología, no dudes en contactarme a través de mis redes sociales o por correo electrónico.
 
-- LinkedIn: [Tu Perfil de LinkedIn](enlace-a-tu-linkedin)
-- Correo Electrónico: [tu@email.com](mailto:tu@email.com)
+- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-bravo/?trk=public_profile_like_view_actor-name&originalSubdomain=es)
+- Correo Electrónico: [tu@email.com](alejandroguezbravo@hotmail.com)
 
 ### ¡Hablemos!
 
